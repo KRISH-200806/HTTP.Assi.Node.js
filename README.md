@@ -15,3 +15,6 @@
         - `/user`: Returns the user data from `db.json`.
 
 This setup will provide a basic introduction to handling HTTP routes, reading data from a JSON file, and serving it as a response using Express.js in Node.js.
+
+
+video:-[video](https://drive.google.com/file/d/10gOMsKAk-gtiKJf_hj60cUaH7IMR-aMV/view?usp=sharing)
